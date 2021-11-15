@@ -1,0 +1,98 @@
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.exe
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.deps.json
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.runtimeconfig.json
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ref\MainProg.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.pdb
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\ref\MainProg.dll
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.pdb
+C:\Users\Sebastian\Desktop\TEMA\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.genruntimeconfig.cache
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.exe
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.deps.json
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.runtimeconfig.json
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.runtimeconfig.dev.json
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ref\MainProg.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\MainProg.pdb
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\CSharp.Choices.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\CSharp.Choices.Attributes.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Exemple.Domain.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\bin\Debug\net5.0\Exemple.Domain.pdb
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.AssemblyInfo.cs
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.csproj.CopyComplete
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\ref\MainProg.dll
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.pdb
+C:\Users\User\Desktop\Teme PSSC\exemple-laborator\BradeaAndreea\Lucrarea-02\Exemple\MainProg\obj\Debug\net5.0\MainProg.genruntimeconfig.cache
